@@ -1,0 +1,8 @@
+{
+  "name": "MediSearch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4446080c"
+}
